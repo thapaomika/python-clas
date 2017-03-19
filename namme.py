@@ -1,0 +1,5 @@
+first_name =input('omika:')
+last_name =input('thapa:')
+print('hello %s %s!'% (first_name,last_name))
+print('hello {} {}!'.format(first_name,last_name))
+print('hello {0} {1}'.format(first_name,last_name))
